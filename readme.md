@@ -12,9 +12,11 @@ also create cron job to run every hour,with command called (TopRatedMovies)
 
 
 ### Second Function
-create endpoint to list all movies .
+- create endpoint to list all movies .
 
-you can get the route to do this function in web.php file and route called (all_movies)
+- create unit Test for this route .
+
+- you can get the route to do this function in web.php file and route called (all_movies)
 
 ### Third Function
 User can search about movies by category,
