@@ -38,4 +38,7 @@ composer create-project --prefer-dist laravel/laravel TruflaTask "5.8.*"
 ## setup HTTPGUZZLE package
 composer require guzzlehttp/guzzle
 
+## for unit test write command
+vendor/bin/phpunit
+
 
