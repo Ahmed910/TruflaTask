@@ -66,6 +66,7 @@ class MoviesController extends Controller
 
     public function all_movies()
     {
+    
        $movies=Movies::all();
        return $this->apiResponse($movies);
     }
